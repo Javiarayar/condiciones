@@ -1,0 +1,9 @@
+.sticker{
+    display: flex;
+    justify-content: space-around;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
